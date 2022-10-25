@@ -1,6 +1,6 @@
 import argparse
 
-import sustainbench
+import SustainBench
 
 
 def main() -> None:
